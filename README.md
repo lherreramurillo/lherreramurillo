@@ -44,6 +44,8 @@ cryptocurrency investigation
 | Certification | Status |
 |---|---|
 | Cisco NetAcad — ITN, SRWE, ENSA | Completed |
+| Linux Essentials — Cisco | Completed |
+| AWS Academy Graduate, Cloud Foundations | Completed |
 | CCNA 200-301 | In preparation — exam September 2026 |
 | HTB CDSA | Planned — December 2026 |
 
