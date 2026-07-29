@@ -43,13 +43,15 @@ cryptocurrency investigation
 
 ### Certifications
 
-| Certification | Status |
-|---|---|
-| Cisco NetAcad — ITN, SRWE, ENSA | Completed |
-| Linux Essentials — Cisco | Completed |
-| AWS Academy Graduate, Cloud Foundations | Completed |
-| CCNA 200-301 | In preparation — exam September 2026 |
-| HTB CDSA | Planned — December 2026 |
+| Certification | Issuer | Status |
+|---|---|---|
+| [CCNA: Introduction to Networks](https://www.credly.com/badges/3aa00007-8155-4ded-8ea0-7fc241a01958/public_url) | Cisco | Completed — Jan 2026 |
+| [CCNA: Switching, Routing and Wireless Essentials](https://www.credly.com/badges/07dfda33-184d-47fa-a494-53a8e69ad5b1/public_url) | Cisco | Completed — Apr 2026 |
+| [CCNA: Enterprise Networking, Security and Automation](https://www.credly.com/badges/8f7d1f2b-32b9-4e16-b458-f36e4fcd28f5/public_url) | Cisco | Completed — Jun 2026 |
+| [Linux Essentials](https://www.credly.com/badges/55c3b7ac-0866-44a2-920a-fb6d0b7ee89f/public_url) | Cisco | Completed — Jul 2025 |
+| [AWS Academy Graduate: Cloud Foundations](https://www.credly.com/badges/1bf8cad1-1f25-42da-9f82-dfa6ccb32459/public_url) | AWS Academy | Completed — May 2026 |
+| CCNA 200-301 | Cisco | In preparation — exam September 2026 |
+| HTB CDSA | Hack The Box | Planned — December 2026 |
 
 ---
 
