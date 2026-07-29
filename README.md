@@ -26,6 +26,8 @@ administration, virtualization with KVM
 
 **Python** — fundamentals, file and log parsing
 
+**Cloud** — AWS fundamentals through AWS Academy (Cloud Foundations)
+
 ### Where I'm headed
 
 Digital forensics · Incident response · Threat hunting · Blockchain and
