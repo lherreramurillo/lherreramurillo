@@ -40,9 +40,8 @@ cryptocurrency investigation
 
 | Repository | What it is |
 |---|---|
-| [dfir-lab-notes](../../dfir-lab-notes) | Lab writeups from TCM Security Academy, structured as forensic reports |
-| [windows-forensics-lab](../../windows-forensics-lab) | Hashing, integrity verification and chain of custody labs |
-| [ids-feature-selection](../../ids-feature-selection) | Filter-based feature selection on network intrusion data (GAIA seedbed) |
+| [windows-forensics-lab-notes](https://github.com/lherreramurillo/windows-forensics-lab-notes) | Windows forensics lab writeups: hashing, integrity verification and chain of custody |
+| [ids-feature-selection](https://github.com/lherreramurillo/ids-feature-selection) | Filter-based feature selection on network intrusion data (GAIA research seedbed) |
 
 ### Certifications
 
