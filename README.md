@@ -2,19 +2,22 @@
 
 Information Systems Management student (9th semester) at Universidad Nacional de
 Colombia, Manizales. Working toward **digital forensics and incident response**,
-with a focus on financial crime and cryptocurrency investigation.
+with a focus on network evidence and cryptocurrency transaction tracing.
 
-This profile is my lab notebook. Every repository here is something I broke,
-analyzed, or built while learning.
+This profile is my lab notebook: each repository is a lab I ran, a dataset I
+analyzed, or part of my thesis work.
 
 ---
 
 ### Currently working on
 
-- **SOC Analyst path** — HTB Academy (15 modules) → preparing for **CDSA**
-- **CCNA 200-301** — exam scheduled for September 2026
-- Building forensic tooling in Python
-- Learning blockchain analysis for financial crime investigation
+- **Undergraduate thesis proposal** — a network forensics methodology for
+  reconstructing ransomware incidents, mapped to NIST SP 800-86, NIST SP 800-61,
+  ISO/IEC 27037 and ISO/IEC 27042
+- **Introduction to Windows Forensics** — TCM Security Academy; one writeup per lab
+- **Feature selection for network intrusion detection** — GAIA research seedbed,
+  filter methods in Python
+- **CCNA 200-301** — exam planned for November 2026 to January 2027
 
 ### Background
 
@@ -22,24 +25,24 @@ analyzed, or built while learning.
 ENSA), plus lab work in Packet Tracer and GNS3
 
 **Linux** — Arch-based system as my daily driver; shell scripting, system
-administration, virtualization with KVM
+administration, virtualization
 
-**Python** — fundamentals, file and log parsing
+**Python** — pandas and scikit-learn for data analysis; file and log parsing
 
 **Cloud** — AWS fundamentals through AWS Academy (Cloud Foundations)
 
 ### Where I'm headed
 
-Digital forensics · Incident response · Threat hunting · Blockchain and
+Digital forensics · Incident response · Network evidence · Blockchain and
 cryptocurrency investigation
 
 ### Repositories
 
 | Repository | What it is |
 |---|---|
-| [dfir-lab-notes](../../dfir-lab-notes) | Investigation writeups from HTB Academy labs, structured as forensic reports |
-| [forensic-toolkit](../../forensic-toolkit) | Python tools for artifact parsing and analysis |
-| [ccna-notes](../../ccna-notes) | Networking notes and Packet Tracer topologies |
+| [dfir-lab-notes](../../dfir-lab-notes) | Lab writeups from TCM Security Academy, structured as forensic reports |
+| [windows-forensics-lab](../../windows-forensics-lab) | Hashing, integrity verification and chain of custody labs |
+| [ids-feature-selection](../../ids-feature-selection) | Filter-based feature selection on network intrusion data (GAIA seedbed) |
 
 ### Certifications
 
@@ -50,12 +53,11 @@ cryptocurrency investigation
 | [CCNA: Enterprise Networking, Security and Automation](https://www.credly.com/badges/8f7d1f2b-32b9-4e16-b458-f36e4fcd28f5/public_url) | Cisco | Completed — Jun 2026 |
 | [Linux Essentials](https://www.credly.com/badges/55c3b7ac-0866-44a2-920a-fb6d0b7ee89f/public_url) | Cisco | Completed — Jul 2025 |
 | [AWS Academy Graduate: Cloud Foundations](https://www.credly.com/badges/1bf8cad1-1f25-42da-9f82-dfa6ccb32459/public_url) | AWS Academy | Completed — May 2026 |
-| CCNA 200-301 | Cisco | In preparation — exam September 2026 |
-| HTB CDSA | Hack The Box | Planned — December 2026 |
+| CCNA 200-301 | Cisco | In preparation — exam Nov 2026 to Jan 2027 |
 
 ---
 
-Manizales, Colombia (UTC−5) · panish (native) · English (B2, IELTS
-scheduled December 2026)
+Manizales, Colombia (UTC−5) · Spanish (native) · English (B2, Universidad
+Autónoma de Manizales; IELTS Academic in preparation)
 
 [LinkedIn](https://www.linkedin.com/in/laura-camila-herrera-murillo)
